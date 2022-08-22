@@ -15,7 +15,7 @@
           "kind": "bin"
         }
       },
-      "args": [],
+      "args": ["png_subset", "--out", "out"],
       "cwd": "${workspaceFolder}"
     },
     {
